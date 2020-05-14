@@ -1,0 +1,15 @@
+rowname,label,values
+optimistic_1,"Stat: uncertain times, I expect the best",1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+optimistic_2,Stat: Every cloud has a silver lining,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+optimistic_3,Stat: Always look on the bright side,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+optimistic_4,Stat: Always optimistic about my future,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+peer_1,Rel P my age: spend free time with me,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+peer_2,"Rel P my age: share secrets, information",1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+peer_3,Rel P my age: are usually friendly to me,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+peer_4,Rel P my age: usually stick up for me,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+peer_5,Rel P my age: ask me to hang out with,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+satisfaction_1,Satisfaction with: ...friendships.,1  =  Not satisfied at all; 2  =  Not very satisfied; 3  =  Moderately satisfied; 4  =  Satisfied; 5  =  Very satisfied
+satisfaction_2,Satisfaction with: ...health.,1  =  Not satisfied at all; 2  =  Not very satisfied; 3  =  Moderately satisfied; 4  =  Satisfied; 5  =  Very satisfied
+satisfaction_3,Satisfaction with: ...school.,1  =  Not satisfied at all; 2  =  Not very satisfied; 3  =  Moderately satisfied; 4  =  Satisfied; 5  =  Very satisfied
+satisfaction_4,Satisfaction with: ...family.,1  =  Not satisfied at all; 2  =  Not very satisfied; 3  =  Moderately satisfied; 4  =  Satisfied; 5  =  Very satisfied
+satisfaction_5,How satisfied with life as a whole,1  =  Not satisfied at all; 2  =  Not very satisfied; 3  =  Moderately satisfied; 4  =  Satisfied; 5  =  Very satisfied
