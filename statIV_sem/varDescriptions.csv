@@ -1,10 +1,10 @@
 variable,label,value_labels
 optimistic_1,"In uncertain times, I usually expect the best",1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
-optimistic_2,I'm a believer in the idea that 'every cloud has a silver lining',1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+optimistic_2,I believe in the idea that 'every cloud has a silver lining',1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
 optimistic_3,I always look on the bright side of things,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
 optimistic_4,I'm always optimistic about my future,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
 peer_1,People my age spend their free time with me,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
-peer_2,"People my age often share secrets, information, stories etc. with me",1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
+peer_2,"People my age often share secrets, stories etc. with me",1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
 peer_3,People my age are usually friendly to me,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
 peer_4,People my age usually stick up for me,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
 peer_5,People my age like to ask me to hang out with them,1  =  Strongly disagree; 2  =  Slightly disagree; 3  =  Neither agree nor disagree; 4  =  Slightly agree; 5  =  Strongly agree
