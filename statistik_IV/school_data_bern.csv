@@ -1,4 +1,4 @@
-id,name,motivation,vornote,class,teacher_salary,school,pisa
+id,name,motivation,grade,class,teacher_salary,school,pisa
 1,Ella,3.59,4.5,1,7872.198772424759,Bitzius,371
 2,Felix,4.51,4.75,1,7872.198772424759,Bitzius,485
 3,Arne,4.55,5,1,7872.198772424759,Bitzius,472
