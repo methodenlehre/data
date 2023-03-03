@@ -1,0 +1,1151 @@
+id,name,motivation,grade,class,teacher_salary,school,pisa
+1,Denis,4,2,1,4.742,Bitzius,513
+2,Talia,5.25,4,1,4.742,Bitzius,563
+3,Ahmed,6,4,1,4.742,Bitzius,610
+4,Lamija,4.75,4,1,4.742,Bitzius,337
+5,Titus,4.5,4,1,4.742,Bitzius,477
+6,Justus,2,1,1,4.742,Bitzius,456
+7,Leonie,5,4,1,4.742,Bitzius,505
+8,Esther,3.75,1,1,4.742,Bitzius,498
+9,Raphael,5.5,5,1,4.742,Bitzius,332
+10,Florian,4.75,2,1,4.742,Bitzius,466
+11,Meryem,3.25,3,1,4.742,Bitzius,627
+12,Clara,4.25,4,1,4.742,Bitzius,467
+13,Louise,5.25,5,1,4.742,Bitzius,365
+14,Eneas,5,5,1,4.742,Bitzius,515
+15,Schaima,2,4,1,4.742,Bitzius,562
+16,Yuna,3.25,4,1,4.742,Bitzius,479
+17,Tuana,5,1,1,4.742,Bitzius,619
+18,Elina,5.5,2,1,4.742,Bitzius,557
+19,Dennis,5.5,1,1,4.742,Bitzius,342
+20,Koray,5.25,1,1,4.742,Bitzius,439
+21,Alma,3.75,3,1,4.742,Bitzius,445
+22,Ida,5.75,5,1,4.742,Bitzius,579
+23,David,5.5,4,1,4.742,Bitzius,588
+24,Ivy,6,4,2,7.569,Bitzius,501
+25,Levi,3.75,4,2,7.569,Bitzius,547
+26,Veren,4.5,3,2,7.569,Bitzius,575
+27,Jayden,4.5,5,2,7.569,Bitzius,503
+28,Florian,5.5,2,2,7.569,Bitzius,559
+29,Chaima,4.25,2,2,7.569,Bitzius,537
+30,Bronka,5.25,4,2,7.569,Bitzius,556
+31,Maryam,3.75,5,2,7.569,Bitzius,520
+32,Constantin,5,5,2,7.569,Bitzius,387
+33,Jamaine,3.25,2,2,7.569,Bitzius,555
+34,Chloé,4.25,3,2,7.569,Bitzius,502
+35,Jana,3.75,1,2,7.569,Bitzius,571
+36,Erik,5.5,4,2,7.569,Bitzius,572
+37,Jakob,5.5,3,2,7.569,Bitzius,592
+38,Loïc,4.25,5,2,7.569,Bitzius,534
+39,Sophie,4.5,4,2,7.569,Bitzius,444
+40,Juni,3,2,2,7.569,Bitzius,601
+41,Alexander,4,4,2,7.569,Bitzius,625
+42,Marie,5.5,1,2,7.569,Bitzius,437
+43,Nala,5.5,3,2,7.569,Bitzius,562
+44,Marjanna,1,3,2,7.569,Bitzius,582
+45,Elias,1.25,3,2,7.569,Bitzius,670
+46,Sarya,4.75,4,2,7.569,Bitzius,557
+47,Çağatay,4,4,3,5.574,Bitzius,526
+48,Artemovna,5.25,4,3,5.574,Bitzius,380
+49,Arno,4.25,2,3,5.574,Bitzius,425
+50,Jule,2.75,3,3,5.574,Bitzius,500
+51,Ceyda,4.75,2,3,5.574,Bitzius,306
+52,Ben,2.25,4,3,5.574,Bitzius,528
+53,Cihan,5.25,3,3,5.574,Bitzius,511
+54,Ali,3.25,5,3,5.574,Bitzius,546
+55,Smila,3,5,3,5.574,Bitzius,541
+56,Cécile,5.5,5,3,5.574,Bitzius,636
+57,Leyao,4.5,2,3,5.574,Bitzius,346
+58,Viola,5.25,5,3,5.574,Bitzius,591
+59,Brigitte,4.75,3,3,5.574,Bitzius,488
+60,Ferdinand,5.25,5,3,5.574,Bitzius,327
+61,Marie,5.5,4,3,5.574,Bitzius,498
+62,Lili,4.5,5,3,5.574,Bitzius,444
+63,Sabrin,3.75,3,3,5.574,Bitzius,437
+64,Angelo,5,3,3,5.574,Bitzius,470
+65,Lola,4,1,3,5.574,Bitzius,407
+66,Alexander,5.5,4,3,5.574,Bitzius,515
+67,Lena,3.75,1,3,5.574,Bitzius,507
+68,Mira,1.5,5,3,5.574,Bitzius,562
+69,İshak,4.5,5,3,5.574,Bitzius,465
+70,Lou,1.25,4,4,6.263,Bitzius,525
+71,Marcus,5.25,1,4,6.263,Bitzius,442
+72,Alara,3.75,5,4,6.263,Bitzius,314
+73,Laura,1.25,4,4,6.263,Bitzius,451
+74,Alessia,4.25,4,4,6.263,Bitzius,152
+75,Tsvetelinova,3.75,4,4,6.263,Bitzius,380
+76,Sophie,4.25,5,4,6.263,Bitzius,564
+77,Francisco,5,5,4,6.263,Bitzius,262
+78,Grace,4.5,2,4,6.263,Bitzius,499
+79,Sophie,5.5,1,4,6.263,Bitzius,435
+80,Khadija,3.25,5,4,6.263,Bitzius,540
+81,Klara,5.25,5,4,6.263,Bitzius,412
+82,Rumeysa,5.25,2,4,6.263,Bitzius,433
+83,Sümeyye,3.5,3,4,6.263,Bitzius,509
+84,Abdourahman,4.75,5,4,6.263,Bitzius,377
+85,Lion,5,5,4,6.263,Bitzius,320
+86,Lilli,4.75,2,4,6.263,Bitzius,548
+87,Yusuf,5.25,4,4,6.263,Bitzius,320
+88,Mila,5,5,4,6.263,Bitzius,387
+89,Sophie,1,4,4,6.263,Bitzius,528
+90,Franzis,4.5,3,4,6.263,Bitzius,407
+91,Lukas,2.75,2,4,6.263,Bitzius,352
+92,Mayumi,3,1,4,6.263,Bitzius,408
+93,Lev,4.75,5,5,5.817,Bitzius,391
+94,Soraya-Amira,3,4,5,5.817,Bitzius,352
+95,Hannes,4.5,1,5,5.817,Bitzius,394
+96,Lukas,4.5,4,5,5.817,Bitzius,386
+97,Mats,4,4,5,5.817,Bitzius,556
+98,Tom,4,4,5,5.817,Bitzius,335
+99,Ernst,1,3,5,5.817,Bitzius,610
+100,David,4.25,1,5,5.817,Bitzius,610
+101,Mats,5.25,4,5,5.817,Bitzius,376
+102,Joaquim,2.75,5,5,5.817,Bitzius,399
+103,Juliane,5.5,4,5,5.817,Bitzius,331
+104,Luisa,3.25,5,5,5.817,Bitzius,407
+105,Clara,5.5,5,5,5.817,Bitzius,387
+106,Enea,4.5,5,5,5.817,Bitzius,482
+107,Leonie,1.75,5,5,5.817,Bitzius,568
+108,Eliah,4.5,3,5,5.817,Bitzius,372
+109,James,4.5,3,5,5.817,Bitzius,424
+110,Elisa,5,4,5,5.817,Bitzius,380
+111,Joy,3.5,5,5,5.817,Bitzius,310
+112,Giuliana,5.5,4,5,5.817,Bitzius,313
+113,Ayaan,4.5,5,5,5.817,Bitzius,339
+114,Caiden,3,1,5,5.817,Bitzius,458
+115,Meylin,3.75,2,5,5.817,Bitzius,309
+116,Mesut,5,4,6,5.722,Kirchenfeld,479
+117,Lukas,5.25,5,6,5.722,Kirchenfeld,458
+118,Merle,5.25,3,6,5.722,Kirchenfeld,502
+119,Finn,3.25,4,6,5.722,Kirchenfeld,460
+120,Melody,5.75,1,6,5.722,Kirchenfeld,410
+121,Nathan,3.25,2,6,5.722,Kirchenfeld,495
+122,Selim,3.75,3,6,5.722,Kirchenfeld,378
+123,Anna,3.25,2,6,5.722,Kirchenfeld,224
+124,Charlotte,3.5,4,6,5.722,Kirchenfeld,422
+125,David,5.75,3,6,5.722,Kirchenfeld,496
+126,Darija,4,1,6,5.722,Kirchenfeld,596
+127,Laurentius,3.5,4,6,5.722,Kirchenfeld,381
+128,Lina,4.75,5,6,5.722,Kirchenfeld,484
+129,Shanty,4.25,3,6,5.722,Kirchenfeld,330
+130,Henrik,5.25,4,6,5.722,Kirchenfeld,454
+131,Ben,5.5,3,6,5.722,Kirchenfeld,557
+132,Cori,4.25,3,6,5.722,Kirchenfeld,390
+133,Ella,5,4,6,5.722,Kirchenfeld,360
+134,Mats,3.5,4,6,5.722,Kirchenfeld,462
+135,Victoria,5.25,5,6,5.722,Kirchenfeld,347
+136,Hasan,5,2,6,5.722,Kirchenfeld,385
+137,Douae,5,2,6,5.722,Kirchenfeld,356
+138,Miikka,5.75,1,6,5.722,Kirchenfeld,449
+139,Lea,5.75,3,7,6.598,Kirchenfeld,562
+140,Estellé,4.25,1,7,6.598,Kirchenfeld,399
+141,Charlotte,4.5,3,7,6.598,Kirchenfeld,509
+142,Angelika,4.5,1,7,6.598,Kirchenfeld,593
+143,Abdurrahman,4.5,4,7,6.598,Kirchenfeld,501
+144,Amin,3.25,4,7,6.598,Kirchenfeld,352
+145,Sophie,1.25,4,7,6.598,Kirchenfeld,565
+146,Elliot,5,3,7,6.598,Kirchenfeld,444
+147,Exiane,5.25,4,7,6.598,Kirchenfeld,462
+148,Luigi,4.75,2,7,6.598,Kirchenfeld,480
+149,Marian,5,1,7,6.598,Kirchenfeld,459
+150,Celina,5,2,7,6.598,Kirchenfeld,558
+151,Collin,4.25,3,7,6.598,Kirchenfeld,437
+152,Tim,3.75,1,7,6.598,Kirchenfeld,491
+153,Sybilla,4.75,2,7,6.598,Kirchenfeld,402
+154,Havva,6,1,7,6.598,Kirchenfeld,567
+155,Jarosław,3.25,2,7,6.598,Kirchenfeld,342
+156,Sophia,3.75,3,7,6.598,Kirchenfeld,467
+157,Charlotte,5.5,1,7,6.598,Kirchenfeld,428
+158,Emilia,3.5,3,7,6.598,Kirchenfeld,517
+159,Mathys,4.75,4,7,6.598,Kirchenfeld,566
+160,Theresa,5.25,3,7,6.598,Kirchenfeld,537
+161,Dorothee,4.25,4,7,6.598,Kirchenfeld,592
+162,Hannah,3.75,2,8,6.902,Kirchenfeld,381
+163,Juri,5.5,5,8,6.902,Kirchenfeld,467
+164,Sophie,4.25,4,8,6.902,Kirchenfeld,410
+165,Anna,5.25,3,8,6.902,Kirchenfeld,375
+166,Johannes,5.5,3,8,6.902,Kirchenfeld,483
+167,Jean,5.75,3,8,6.902,Kirchenfeld,302
+168,Aladar,3.5,5,8,6.902,Kirchenfeld,487
+169,Fatmanur,5.25,4,8,6.902,Kirchenfeld,488
+170,Tuana,5.5,2,8,6.902,Kirchenfeld,463
+171,Julian,5.25,1,8,6.902,Kirchenfeld,392
+172,Angela,2.5,3,8,6.902,Kirchenfeld,365
+173,Lucia,5,3,8,6.902,Kirchenfeld,530
+174,Farrell,1.5,2,8,6.902,Kirchenfeld,358
+175,Luca,5,5,8,6.902,Kirchenfeld,366
+176,Eren,5.75,2,8,6.902,Kirchenfeld,506
+177,Emma,4.5,4,8,6.902,Kirchenfeld,412
+178,Osaivbie,4.25,1,8,6.902,Kirchenfeld,409
+179,Amy,4.5,2,8,6.902,Kirchenfeld,305
+180,Vincent,5.75,3,8,6.902,Kirchenfeld,401
+181,Quentin,1.5,3,8,6.902,Kirchenfeld,379
+182,Mats,5,1,8,6.902,Kirchenfeld,363
+183,Dafinova,5,3,8,6.902,Kirchenfeld,322
+184,Lena,3.25,3,8,6.902,Kirchenfeld,347
+185,Leopold,5.5,4,9,6.53,Kirchenfeld,352
+186,Marlene,3.75,2,9,6.53,Kirchenfeld,292
+187,Lina,5,4,9,6.53,Kirchenfeld,178
+188,Vince,5.5,3,9,6.53,Kirchenfeld,311
+189,Tobias,2,2,9,6.53,Kirchenfeld,402
+190,Jonathan,1,4,9,6.53,Kirchenfeld,448
+191,Jonathan,1.75,1,9,6.53,Kirchenfeld,492
+192,Verona,4.75,3,9,6.53,Kirchenfeld,423
+193,Till,4.25,1,9,6.53,Kirchenfeld,330
+194,Jarne,4.75,4,9,6.53,Kirchenfeld,411
+195,Jolanda,3,4,9,6.53,Kirchenfeld,340
+196,Sofie,3.25,1,9,6.53,Kirchenfeld,375
+197,Dilrose,3.5,2,9,6.53,Kirchenfeld,325
+198,Josh,4.75,1,9,6.53,Kirchenfeld,297
+199,Toni,5.25,5,9,6.53,Kirchenfeld,239
+200,Maria,4.25,3,9,6.53,Kirchenfeld,327
+201,Rafael,5.25,2,9,6.53,Kirchenfeld,170
+202,Garrett,5.5,4,9,6.53,Kirchenfeld,281
+203,Abra,6,5,9,6.53,Kirchenfeld,292
+204,Leonhard,2.75,5,9,6.53,Kirchenfeld,397
+205,Lotta,5.5,3,9,6.53,Kirchenfeld,177
+206,Saphira,1.5,4,9,6.53,Kirchenfeld,485
+207,Angelina,5.25,5,9,6.53,Kirchenfeld,427
+208,Lina,4.5,3,10,6.586,Kirchenfeld,435
+209,Daniel,4,3,10,6.586,Kirchenfeld,432
+210,Radu,5,4,10,6.586,Kirchenfeld,274
+211,Josephine,5.75,5,10,6.586,Kirchenfeld,355
+212,Felizita,5.25,2,10,6.586,Kirchenfeld,663
+213,Leonie,2.25,4,10,6.586,Kirchenfeld,356
+214,Levi,4.5,3,10,6.586,Kirchenfeld,441
+215,Adele,4.25,4,10,6.586,Kirchenfeld,343
+216,Amane,3.75,5,10,6.586,Kirchenfeld,548
+217,Saphira,5.5,1,10,6.586,Kirchenfeld,493
+218,Luminița,5,3,10,6.586,Kirchenfeld,469
+219,Amin,3.5,3,10,6.586,Kirchenfeld,434
+220,Léon,5.25,1,10,6.586,Kirchenfeld,447
+221,Leyla,4.25,4,10,6.586,Kirchenfeld,481
+222,Jiyan,3.5,1,10,6.586,Kirchenfeld,513
+223,Aleksandarova,5.75,4,10,6.586,Kirchenfeld,476
+224,Adem,3.75,1,10,6.586,Kirchenfeld,253
+225,Liam,5.25,3,10,6.586,Kirchenfeld,442
+226,Fin,3,5,10,6.586,Kirchenfeld,295
+227,Francesca,5.5,5,10,6.586,Kirchenfeld,333
+228,Ramand,4.75,5,10,6.586,Kirchenfeld,409
+229,Louisa,5,2,10,6.586,Kirchenfeld,504
+230,Jan-Alexander,5.25,4,10,6.586,Kirchenfeld,451
+231,Sarah,4,3,11,8.332,Brunnmatt,754
+232,Marie,4.5,3,11,8.332,Brunnmatt,696
+233,Zoe,6,4,11,8.332,Brunnmatt,717
+234,Maik,5.5,4,11,8.332,Brunnmatt,872
+235,Tuana,5,5,11,8.332,Brunnmatt,731
+236,Neo,5,2,11,8.332,Brunnmatt,721
+237,Ezechimere,5,1,11,8.332,Brunnmatt,805
+238,Clemens,4.75,5,11,8.332,Brunnmatt,848
+239,Emily,3.5,2,11,8.332,Brunnmatt,574
+240,Mussie,5.5,1,11,8.332,Brunnmatt,624
+241,Palin,5.5,3,11,8.332,Brunnmatt,619
+242,Mikael,2.5,5,11,8.332,Brunnmatt,763
+243,Nicole,2.75,3,11,8.332,Brunnmatt,591
+244,Lucas,5.75,1,11,8.332,Brunnmatt,766
+245,Adam,5,2,11,8.332,Brunnmatt,783
+246,Sarah,1.5,2,11,8.332,Brunnmatt,327
+247,Adrian,4.75,3,11,8.332,Brunnmatt,661
+248,Ilana,2.5,2,11,8.332,Brunnmatt,566
+249,Ecrin,5.25,4,11,8.332,Brunnmatt,843
+250,Pauline,4.25,5,11,8.332,Brunnmatt,843
+251,Arian,4.5,4,11,8.332,Brunnmatt,724
+252,Fee,3.5,1,11,8.332,Brunnmatt,726
+253,Ava,5,5,11,8.332,Brunnmatt,720
+254,Jonathan,4.5,3,12,6.542,Brunnmatt,692
+255,Paul,5,1,12,6.542,Brunnmatt,545
+256,Ömer,3.75,5,12,6.542,Brunnmatt,724
+257,Hüseyin,1,3,12,6.542,Brunnmatt,554
+258,Carlo,5.5,3,12,6.542,Brunnmatt,554
+259,Riana,5,4,12,6.542,Brunnmatt,648
+260,Hira,4,5,12,6.542,Brunnmatt,668
+261,Hannah,2.75,1,12,6.542,Brunnmatt,409
+262,Fynn,5,1,12,6.542,Brunnmatt,424
+263,Sophie,3,5,12,6.542,Brunnmatt,595
+264,Furkan,5,4,12,6.542,Brunnmatt,486
+265,Anton,5.5,3,12,6.542,Brunnmatt,631
+266,Firat,5.25,1,12,6.542,Brunnmatt,482
+267,Herrmann,1,5,12,6.542,Brunnmatt,567
+268,Emilie,3.75,4,12,6.542,Brunnmatt,553
+269,Thomas,4,2,12,6.542,Brunnmatt,389
+270,Dion,5.25,3,12,6.542,Brunnmatt,439
+271,Justus,3.5,5,12,6.542,Brunnmatt,548
+272,Alexander,4,2,12,6.542,Brunnmatt,569
+273,Tristan,5,3,12,6.542,Brunnmatt,615
+274,Halil,4.5,2,12,6.542,Brunnmatt,513
+275,Denyse,5.75,5,12,6.542,Brunnmatt,668
+276,Lucas,5,4,12,6.542,Brunnmatt,542
+277,Felix,5.25,2,13,8.716,Brunnmatt,532
+278,Jonas,3.5,5,13,8.716,Brunnmatt,529
+279,Muhammed,4.25,2,13,8.716,Brunnmatt,462
+280,Alexander,2.75,4,13,8.716,Brunnmatt,485
+281,Noah,3.5,2,13,8.716,Brunnmatt,459
+282,Mihrimah,4.25,2,13,8.716,Brunnmatt,456
+283,Emma,5.25,1,13,8.716,Brunnmatt,468
+284,Affi,5,5,13,8.716,Brunnmatt,569
+285,Mariella,3.75,3,13,8.716,Brunnmatt,308
+286,Valentin,5.25,1,13,8.716,Brunnmatt,479
+287,Tony,4.75,2,13,8.716,Brunnmatt,454
+288,Alexander,3.75,3,13,8.716,Brunnmatt,515
+289,Alex,3.75,5,13,8.716,Brunnmatt,416
+290,Till,3,3,13,8.716,Brunnmatt,469
+291,Mara,4,4,13,8.716,Brunnmatt,492
+292,Armanda,6,2,13,8.716,Brunnmatt,447
+293,Katharina,5.75,5,13,8.716,Brunnmatt,612
+294,Mateo,6,4,13,8.716,Brunnmatt,525
+295,Elias,5.5,4,13,8.716,Brunnmatt,531
+296,Erva,5.25,3,13,8.716,Brunnmatt,475
+297,Marcello,5,2,13,8.716,Brunnmatt,390
+298,Mara,5.5,5,13,8.716,Brunnmatt,622
+299,Luca,4.75,2,13,8.716,Brunnmatt,452
+300,Falk,5.25,1,14,5.755,Brunnmatt,507
+301,James,5.5,3,14,5.755,Brunnmatt,458
+302,Gabriel,4.5,1,14,5.755,Brunnmatt,395
+303,Eva,1,3,14,5.755,Brunnmatt,402
+304,Ben,5,3,14,5.755,Brunnmatt,424
+305,Elin,4.25,5,14,5.755,Brunnmatt,605
+306,Piet,5,2,14,5.755,Brunnmatt,450
+307,Josefine,5.5,1,14,5.755,Brunnmatt,302
+308,Hamza,3.75,2,14,5.755,Brunnmatt,461
+309,Jonas,4.75,5,14,5.755,Brunnmatt,610
+310,Tobias,5.5,5,14,5.755,Brunnmatt,472
+311,Çağlar,5.75,5,14,5.755,Brunnmatt,508
+312,Marie,5.5,4,14,5.755,Brunnmatt,556
+313,Charlotte,5,2,14,5.755,Brunnmatt,429
+314,Ella,4,5,14,5.755,Brunnmatt,478
+315,Marie,4.25,3,14,5.755,Brunnmatt,403
+316,Patrizia,4.75,3,14,5.755,Brunnmatt,543
+317,Niklas,3.75,3,14,5.755,Brunnmatt,326
+318,Felix,4,4,14,5.755,Brunnmatt,508
+319,Muhammed,2.25,1,14,5.755,Brunnmatt,287
+320,Jayden,4,5,14,5.755,Brunnmatt,487
+321,Anestis,4.25,3,14,5.755,Brunnmatt,355
+322,Héloïse,4.75,1,14,5.755,Brunnmatt,268
+323,Joshua,3,3,15,5.607,Brunnmatt,621
+324,Jan,5.25,2,15,5.607,Brunnmatt,540
+325,Alexander,4.5,5,15,5.607,Brunnmatt,616
+326,Calvin,4.25,3,15,5.607,Brunnmatt,395
+327,Bennet,5.5,3,15,5.607,Brunnmatt,574
+328,Lara,3.75,2,15,5.607,Brunnmatt,543
+329,Andreas,4.25,3,15,5.607,Brunnmatt,673
+330,Maximilian,5.25,5,15,5.607,Brunnmatt,730
+331,Elisabeth,6,1,15,5.607,Brunnmatt,515
+332,Marlon,5,3,15,5.607,Brunnmatt,578
+333,Anton,3.25,5,15,5.607,Brunnmatt,414
+334,Felice,3.25,3,15,5.607,Brunnmatt,601
+335,Luana-Emilia,4.25,3,15,5.607,Brunnmatt,593
+336,Amelia,1.25,2,15,5.607,Brunnmatt,810
+337,Patrick,3.75,3,15,5.607,Brunnmatt,786
+338,Martha,2,4,15,5.607,Brunnmatt,703
+339,Ensar,5.25,3,15,5.607,Brunnmatt,708
+340,Emil,4,1,15,5.607,Brunnmatt,580
+341,Julian,4.5,2,15,5.607,Brunnmatt,552
+342,Ava,5.25,1,15,5.607,Brunnmatt,720
+343,Noël,5.25,3,15,5.607,Brunnmatt,612
+344,Junior,4.25,1,15,5.607,Brunnmatt,603
+345,Paul,5.5,2,15,5.607,Brunnmatt,626
+346,Max,4,2,16,7.664,Marzili,533
+347,Theodor,5.5,4,16,7.664,Marzili,755
+348,Lasse,4.25,3,16,7.664,Marzili,521
+349,Gül,4.5,4,16,7.664,Marzili,805
+350,Oskar,6,4,16,7.664,Marzili,656
+351,Sophia,5.75,2,16,7.664,Marzili,720
+352,Johanna,3,5,16,7.664,Marzili,686
+353,Vanessa,5.5,3,16,7.664,Marzili,575
+354,Marie,4.75,2,16,7.664,Marzili,610
+355,Julia,5,4,16,7.664,Marzili,725
+356,Lucas,3.25,5,16,7.664,Marzili,667
+357,Martha,5,5,16,7.664,Marzili,728
+358,Furkan,6,1,16,7.664,Marzili,577
+359,Julietta,4.75,2,16,7.664,Marzili,749
+360,Caspar,5.25,5,16,7.664,Marzili,802
+361,Louisa,3.75,2,16,7.664,Marzili,721
+362,Miriam,4.25,3,16,7.664,Marzili,547
+363,Ida,4.75,4,16,7.664,Marzili,779
+364,Gabriel,6,3,16,7.664,Marzili,814
+365,Justus,5,3,16,7.664,Marzili,715
+366,Mustafa,4.25,2,16,7.664,Marzili,701
+367,Remas,3.75,1,16,7.664,Marzili,562
+368,Aurora,3.5,1,16,7.664,Marzili,678
+369,Marc,4.5,1,17,6.002,Marzili,510
+370,Lian,5.25,1,17,6.002,Marzili,568
+371,Veranika,5.75,2,17,6.002,Marzili,537
+372,Amelie,4.25,2,17,6.002,Marzili,571
+373,Mats,1.5,2,17,6.002,Marzili,493
+374,Frida,4.75,2,17,6.002,Marzili,647
+375,Juli,4.25,2,17,6.002,Marzili,505
+376,Levin,1.75,5,17,6.002,Marzili,606
+377,Theresa,4.25,2,17,6.002,Marzili,551
+378,Valentin,5,2,17,6.002,Marzili,580
+379,Clara,1.5,4,17,6.002,Marzili,504
+380,Nelja,6,5,17,6.002,Marzili,504
+381,Josefina,4.75,3,17,6.002,Marzili,656
+382,Niklas,5.25,1,17,6.002,Marzili,552
+383,Doğukan,5,1,17,6.002,Marzili,344
+384,Josefine,1.25,4,17,6.002,Marzili,462
+385,Emma,3.25,5,17,6.002,Marzili,601
+386,Maya,5.25,4,17,6.002,Marzili,626
+387,Giovanni,6,3,17,6.002,Marzili,566
+388,Dario,4.25,4,17,6.002,Marzili,457
+389,Anton,1.75,5,17,6.002,Marzili,582
+390,Bonwiwah,4.25,1,17,6.002,Marzili,696
+391,Noah,3.25,5,17,6.002,Marzili,652
+392,Annika,3.5,5,18,6.485,Marzili,647
+393,Leyre,3.75,2,18,6.485,Marzili,741
+394,Piet,5.25,1,18,6.485,Marzili,739
+395,John-Luca,5.5,4,18,6.485,Marzili,767
+396,Nikan,4.25,5,18,6.485,Marzili,819
+397,Adolf,5.75,3,18,6.485,Marzili,769
+398,Mehmed,1.75,1,18,6.485,Marzili,635
+399,Max,4.75,5,18,6.485,Marzili,796
+400,Samuel,4,1,18,6.485,Marzili,678
+401,Lennart,5,3,18,6.485,Marzili,791
+402,Emma,1.25,4,18,6.485,Marzili,665
+403,Ronan,5,1,18,6.485,Marzili,691
+404,Sophie,6,1,18,6.485,Marzili,933
+405,Paul,4.75,5,18,6.485,Marzili,737
+406,Jonas,5,5,18,6.485,Marzili,782
+407,Sophia,4,5,18,6.485,Marzili,901
+408,Agata,4.25,2,18,6.485,Marzili,761
+409,Demet,4,1,18,6.485,Marzili,700
+410,Greta,3,1,18,6.485,Marzili,537
+411,Asal,4,4,18,6.485,Marzili,697
+412,Amira,2,2,18,6.485,Marzili,611
+413,Niklas,3,5,18,6.485,Marzili,685
+414,Anas,6,4,18,6.485,Marzili,800
+415,Davide,2.75,1,19,7.459,Marzili,272
+416,Maria,4.5,2,19,7.459,Marzili,421
+417,Manfred,4,5,19,7.459,Marzili,584
+418,Matilda,3,5,19,7.459,Marzili,346
+419,Fabienne,5.75,5,19,7.459,Marzili,488
+420,Chanaya,3.5,4,19,7.459,Marzili,436
+421,Susanne,3.75,4,19,7.459,Marzili,404
+422,Oscar,3.5,5,19,7.459,Marzili,344
+423,Estrella,5.25,3,19,7.459,Marzili,585
+424,Minze,4,2,19,7.459,Marzili,367
+425,Loresa,4.25,3,19,7.459,Marzili,369
+426,İlay,3.75,2,19,7.459,Marzili,399
+427,Leon,5,2,19,7.459,Marzili,537
+428,Antonia,4.5,4,19,7.459,Marzili,282
+429,Zümra,5.25,2,19,7.459,Marzili,433
+430,Casper,3.75,5,19,7.459,Marzili,421
+431,Domenico,3,5,19,7.459,Marzili,460
+432,Katharina,6,2,19,7.459,Marzili,594
+433,Azra,5,2,19,7.459,Marzili,514
+434,Admir,5.75,3,19,7.459,Marzili,488
+435,Jula,5.25,3,19,7.459,Marzili,484
+436,Anni,5.25,5,19,7.459,Marzili,470
+437,Fritz,5.25,4,19,7.459,Marzili,452
+438,Christopher,4.5,5,20,7.044,Marzili,566
+439,Elena,5.25,5,20,7.044,Marzili,674
+440,Peter,3,3,20,7.044,Marzili,593
+441,Armando,3.75,3,20,7.044,Marzili,614
+442,Wilhelm,4.25,5,20,7.044,Marzili,724
+443,Zoe,5.25,2,20,7.044,Marzili,420
+444,Karolina,3.75,4,20,7.044,Marzili,586
+445,Laura,4.75,2,20,7.044,Marzili,529
+446,Amir,5,2,20,7.044,Marzili,577
+447,Moritz,4.75,4,20,7.044,Marzili,644
+448,Maik,4.25,4,20,7.044,Marzili,656
+449,Katharina,4.25,5,20,7.044,Marzili,627
+450,Malea,5.5,1,20,7.044,Marzili,611
+451,Mila,4.75,5,20,7.044,Marzili,822
+452,Livia,2.75,5,20,7.044,Marzili,701
+453,Sophie,2,2,20,7.044,Marzili,629
+454,Johanna,4,1,20,7.044,Marzili,554
+455,Johanna,4.25,4,20,7.044,Marzili,606
+456,Nick,6,2,20,7.044,Marzili,442
+457,Marie,5.5,3,20,7.044,Marzili,661
+458,Helmine,5,1,20,7.044,Marzili,582
+459,Iva,5.25,2,20,7.044,Marzili,475
+460,Shayan,5.5,1,20,7.044,Marzili,552
+461,Nicolas,5,4,21,6.222,Pestalozzi,406
+462,Nouk,3.75,3,21,6.222,Pestalozzi,435
+463,Emine,3.75,5,21,6.222,Pestalozzi,433
+464,Helena,3.5,3,21,6.222,Pestalozzi,377
+465,Sophie,4.25,1,21,6.222,Pestalozzi,255
+466,Shayan,4.75,2,21,6.222,Pestalozzi,291
+467,Eliah,2,5,21,6.222,Pestalozzi,258
+468,Paulina,4,2,21,6.222,Pestalozzi,461
+469,Louis,4.5,5,21,6.222,Pestalozzi,458
+470,Marie,1.25,2,21,6.222,Pestalozzi,274
+471,Tyler,5.25,5,21,6.222,Pestalozzi,458
+472,Yusuf,5.75,5,21,6.222,Pestalozzi,363
+473,Liah,3.75,3,21,6.222,Pestalozzi,498
+474,Mimouna,5.75,3,21,6.222,Pestalozzi,243
+475,Simon,5.25,2,21,6.222,Pestalozzi,361
+476,Sophia,4,5,21,6.222,Pestalozzi,506
+477,Annabelle,4,2,21,6.222,Pestalozzi,347
+478,Luk,3.25,3,21,6.222,Pestalozzi,309
+479,Fin,4,1,21,6.222,Pestalozzi,411
+480,Enea,5.5,1,21,6.222,Pestalozzi,302
+481,Aiden,3,4,21,6.222,Pestalozzi,510
+482,Greta,5.5,1,21,6.222,Pestalozzi,385
+483,Marius,5,5,21,6.222,Pestalozzi,517
+484,Zion,5.5,1,22,6.637,Pestalozzi,472
+485,Dila,5.25,5,22,6.637,Pestalozzi,726
+486,Benjamin,3.75,5,22,6.637,Pestalozzi,722
+487,Lea,5.75,4,22,6.637,Pestalozzi,623
+488,Moritz,4.75,4,22,6.637,Pestalozzi,770
+489,Erik,5.25,1,22,6.637,Pestalozzi,383
+490,Imara,3.5,5,22,6.637,Pestalozzi,558
+491,Maria,5.5,2,22,6.637,Pestalozzi,662
+492,Djeila,5.75,4,22,6.637,Pestalozzi,614
+493,Elian,3.25,3,22,6.637,Pestalozzi,643
+494,Elog,3.25,3,22,6.637,Pestalozzi,621
+495,Bilal,5.75,4,22,6.637,Pestalozzi,468
+496,Mimi,4,1,22,6.637,Pestalozzi,548
+497,Kaan,5,5,22,6.637,Pestalozzi,657
+498,Lena,4.5,1,22,6.637,Pestalozzi,448
+499,Luise,4,4,22,6.637,Pestalozzi,805
+500,Ibn,5.5,2,22,6.637,Pestalozzi,523
+501,Ece,4,5,22,6.637,Pestalozzi,816
+502,Elisabeth,3.25,5,22,6.637,Pestalozzi,622
+503,Jaden,5,4,22,6.637,Pestalozzi,608
+504,Francesca-Emilia,5.5,5,22,6.637,Pestalozzi,716
+505,Tim,5.25,2,22,6.637,Pestalozzi,606
+506,Lennart,4,4,22,6.637,Pestalozzi,568
+507,Benjamin,5.5,2,23,6.562,Pestalozzi,337
+508,Berna,4.75,2,23,6.562,Pestalozzi,376
+509,Cataleya,5.75,2,23,6.562,Pestalozzi,366
+510,Ilona,4.25,2,23,6.562,Pestalozzi,607
+511,Viktoria,1.5,3,23,6.562,Pestalozzi,416
+512,Jeremias,5,2,23,6.562,Pestalozzi,453
+513,Bernhard,3.75,1,23,6.562,Pestalozzi,522
+514,Beya,5.25,3,23,6.562,Pestalozzi,327
+515,Aziz,5.25,1,23,6.562,Pestalozzi,499
+516,Joelina-Sophie,5.5,4,23,6.562,Pestalozzi,407
+517,Sara,5.75,4,23,6.562,Pestalozzi,390
+518,Lara,4.5,3,23,6.562,Pestalozzi,533
+519,Elena,3.75,1,23,6.562,Pestalozzi,549
+520,Arthur,5.25,1,23,6.562,Pestalozzi,528
+521,Mila,4.5,5,23,6.562,Pestalozzi,681
+522,Emilia,3,2,23,6.562,Pestalozzi,456
+523,Konstantina,4.5,2,23,6.562,Pestalozzi,453
+524,Annabella,5.5,1,23,6.562,Pestalozzi,405
+525,Syntia,4,3,23,6.562,Pestalozzi,309
+526,Bruna,5.5,5,23,6.562,Pestalozzi,396
+527,Emma,2.25,4,23,6.562,Pestalozzi,475
+528,Luca,5,1,23,6.562,Pestalozzi,264
+529,Tom,4.5,2,23,6.562,Pestalozzi,451
+530,Luca,1,3,24,6.949,Pestalozzi,497
+531,Henry,3.75,1,24,6.949,Pestalozzi,576
+532,Maximilian,4,5,24,6.949,Pestalozzi,611
+533,Agnes,4.75,2,24,6.949,Pestalozzi,670
+534,Su,5,4,24,6.949,Pestalozzi,655
+535,Johanna,1.75,4,24,6.949,Pestalozzi,468
+536,Johannes,3.5,3,24,6.949,Pestalozzi,600
+537,Taha,5.5,5,24,6.949,Pestalozzi,654
+538,Grete,2.25,5,24,6.949,Pestalozzi,486
+539,Molk,3.5,3,24,6.949,Pestalozzi,629
+540,Laura,4,4,24,6.949,Pestalozzi,641
+541,Theo,5.5,1,24,6.949,Pestalozzi,685
+542,Noemi,4.5,3,24,6.949,Pestalozzi,533
+543,Kester,5,1,24,6.949,Pestalozzi,788
+544,Zeynep,4,4,24,6.949,Pestalozzi,600
+545,Henri,3.75,3,24,6.949,Pestalozzi,528
+546,Charmaine,3.5,3,24,6.949,Pestalozzi,570
+547,Pia,4.25,4,24,6.949,Pestalozzi,639
+548,Raphael,3.75,5,24,6.949,Pestalozzi,540
+549,Kian,4.5,1,24,6.949,Pestalozzi,540
+550,Livia,5.25,2,24,6.949,Pestalozzi,548
+551,Emma-Rosa,5.5,4,24,6.949,Pestalozzi,570
+552,Peter,5.5,2,24,6.949,Pestalozzi,718
+553,Lia-Tiara,5.25,1,25,7.66,Pestalozzi,502
+554,Besaka,1.5,5,25,7.66,Pestalozzi,459
+555,Ben,5.25,1,25,7.66,Pestalozzi,507
+556,Kaan,5,4,25,7.66,Pestalozzi,451
+557,Leonhard,4.25,2,25,7.66,Pestalozzi,471
+558,Emilia,4,2,25,7.66,Pestalozzi,508
+559,Saphira,3.75,1,25,7.66,Pestalozzi,255
+560,Lilian,3.25,3,25,7.66,Pestalozzi,489
+561,Johanna,3.75,5,25,7.66,Pestalozzi,476
+562,Aghasii,5.25,4,25,7.66,Pestalozzi,422
+563,Julian,4.5,1,25,7.66,Pestalozzi,605
+564,Emil,6,1,25,7.66,Pestalozzi,589
+565,Anas,2.75,5,25,7.66,Pestalozzi,349
+566,Lennard,4.75,2,25,7.66,Pestalozzi,419
+567,Keyan,3.75,1,25,7.66,Pestalozzi,471
+568,Esmanur,5.75,5,25,7.66,Pestalozzi,474
+569,Johan,3.25,4,25,7.66,Pestalozzi,544
+570,Viktor,4.75,4,25,7.66,Pestalozzi,400
+571,Lucas,5.5,2,25,7.66,Pestalozzi,363
+572,Emircan,4,4,25,7.66,Pestalozzi,435
+573,Lara,3.25,1,25,7.66,Pestalozzi,487
+574,Jana,1,3,25,7.66,Pestalozzi,456
+575,Heinrich,3.75,2,25,7.66,Pestalozzi,383
+576,Zinedine,5,1,26,7.279,Länggasse,751
+577,Nike,5.25,5,26,7.279,Länggasse,813
+578,Willem,5,3,26,7.279,Länggasse,821
+579,Jasper,5,5,26,7.279,Länggasse,829
+580,Elisa,4.5,4,26,7.279,Länggasse,715
+581,Bruno,3.75,5,26,7.279,Länggasse,695
+582,Thammarat,3.75,3,26,7.279,Länggasse,787
+583,Julia,5,2,26,7.279,Länggasse,756
+584,Maxim,5.25,5,26,7.279,Länggasse,859
+585,Elif,3.75,4,26,7.279,Länggasse,727
+586,Ivy,5.5,5,26,7.279,Länggasse,863
+587,Sidelya,5.5,5,26,7.279,Länggasse,635
+588,Frederik,5.75,3,26,7.279,Länggasse,850
+589,Bruno,4.75,2,26,7.279,Länggasse,800
+590,Zoey,5,3,26,7.279,Länggasse,824
+591,Jasper,3.75,2,26,7.279,Länggasse,671
+592,Levin,5.75,2,26,7.279,Länggasse,753
+593,Milan,5.25,2,26,7.279,Länggasse,829
+594,Aaron,5.25,5,26,7.279,Länggasse,839
+595,Julius,4.25,4,26,7.279,Länggasse,772
+596,Emna,3,1,26,7.279,Länggasse,713
+597,Elea,3.25,5,26,7.279,Länggasse,808
+598,Gabriella,3,2,26,7.279,Länggasse,565
+599,Jurik,4.75,4,27,5.779,Länggasse,668
+600,Ljubo,5.5,2,27,5.779,Länggasse,534
+601,Tobias,3.75,3,27,5.779,Länggasse,460
+602,Daniel,5,3,27,5.779,Länggasse,518
+603,Hannah,3.25,4,27,5.779,Länggasse,421
+604,Magdalena,3.75,3,27,5.779,Länggasse,512
+605,Luna,4,2,27,5.779,Länggasse,643
+606,Siegfried,5,4,27,5.779,Länggasse,657
+607,Charlotte,5.5,4,27,5.779,Länggasse,460
+608,Mohamed,4,4,27,5.779,Länggasse,537
+609,Josefine,5.5,4,27,5.779,Länggasse,798
+610,Maximilan,6,4,27,5.779,Länggasse,622
+611,Caspar,3,3,27,5.779,Länggasse,482
+612,Ivy,3.75,2,27,5.779,Länggasse,592
+613,Emilie,4.5,1,27,5.779,Länggasse,514
+614,Luzia,5.25,4,27,5.779,Länggasse,616
+615,Maximilian,5.5,1,27,5.779,Länggasse,502
+616,Johanna,3.75,2,27,5.779,Länggasse,560
+617,Johann,4,2,27,5.779,Länggasse,387
+618,Alessandro,5.25,2,27,5.779,Länggasse,528
+619,Titus,3.75,4,27,5.779,Länggasse,518
+620,Melek,4.75,5,27,5.779,Länggasse,453
+621,Ariana,3.75,2,27,5.779,Länggasse,411
+622,Janosch,3.75,3,28,7.569,Länggasse,531
+623,Colin,4.5,1,28,7.569,Länggasse,622
+624,Gabriel,3.75,5,28,7.569,Länggasse,750
+625,Michel,5.25,4,28,7.569,Länggasse,613
+626,Zaida,4.5,3,28,7.569,Länggasse,693
+627,Jakob,5.5,1,28,7.569,Länggasse,511
+628,Jakob,5.5,2,28,7.569,Länggasse,632
+629,Franklie,1.25,2,28,7.569,Länggasse,622
+630,Timo,4.25,3,28,7.569,Länggasse,528
+631,Mila,6,1,28,7.569,Länggasse,644
+632,Maya,2,2,28,7.569,Länggasse,557
+633,Ananda,4,5,28,7.569,Länggasse,601
+634,Chandré,5.5,2,28,7.569,Länggasse,606
+635,Lucas,5.75,2,28,7.569,Länggasse,385
+636,Michael,3.25,1,28,7.569,Länggasse,628
+637,Luise,2,4,28,7.569,Länggasse,691
+638,Jana,4.25,5,28,7.569,Länggasse,596
+639,Arthur,5.5,2,28,7.569,Länggasse,591
+640,Elisabetha,5.25,1,28,7.569,Länggasse,529
+641,Benjamin,5,4,28,7.569,Länggasse,694
+642,Amelie,5.25,1,28,7.569,Länggasse,441
+643,Lea,5.5,4,28,7.569,Länggasse,574
+644,Erlis,5.75,4,28,7.569,Länggasse,701
+645,Ali,4.5,4,29,7.825,Länggasse,693
+646,Elog,5,4,29,7.825,Länggasse,697
+647,Annabella,4,5,29,7.825,Länggasse,642
+648,Laura,5,2,29,7.825,Länggasse,399
+649,Ulrike,2.75,4,29,7.825,Länggasse,755
+650,Nisa,5.5,5,29,7.825,Länggasse,530
+651,Paula,3.5,5,29,7.825,Länggasse,659
+652,Giuseppina,5.25,4,29,7.825,Länggasse,606
+653,Jakob,4.5,4,29,7.825,Länggasse,675
+654,Shne,4.75,2,29,7.825,Länggasse,544
+655,Nike,2.75,4,29,7.825,Länggasse,558
+656,Tobia,4.25,5,29,7.825,Länggasse,644
+657,Franz,5.5,5,29,7.825,Länggasse,486
+658,Ates,5,3,29,7.825,Länggasse,480
+659,Milan,5.25,1,29,7.825,Länggasse,552
+660,Leni,5.5,3,29,7.825,Länggasse,438
+661,Elmas,5,1,29,7.825,Länggasse,576
+662,Leo,5.75,5,29,7.825,Länggasse,554
+663,Theo,4.25,2,29,7.825,Länggasse,491
+664,Jonas,5.25,3,29,7.825,Länggasse,655
+665,Elisabeth,4.75,5,29,7.825,Länggasse,545
+666,Adam,5.5,3,29,7.825,Länggasse,498
+667,Emma,4.75,5,29,7.825,Länggasse,555
+668,Bartus,5.75,4,30,7.015,Länggasse,505
+669,John,4.75,3,30,7.015,Länggasse,445
+670,Elisabeth,5.25,4,30,7.015,Länggasse,368
+671,Alan,4,3,30,7.015,Länggasse,320
+672,Julián,4.25,4,30,7.015,Länggasse,630
+673,Elin,4.75,1,30,7.015,Länggasse,514
+674,An,3,5,30,7.015,Länggasse,393
+675,Thies,3.75,5,30,7.015,Länggasse,470
+676,Zeynep,3,2,30,7.015,Länggasse,273
+677,Alessandro,4,1,30,7.015,Länggasse,313
+678,Hazal,5.5,5,30,7.015,Länggasse,488
+679,Khánh,1.25,4,30,7.015,Länggasse,363
+680,Baran,5.25,2,30,7.015,Länggasse,515
+681,Lorena,5.5,2,30,7.015,Länggasse,389
+682,Amália,4,4,30,7.015,Länggasse,485
+683,Roya,4.25,2,30,7.015,Länggasse,425
+684,Laurenz,4,4,30,7.015,Länggasse,445
+685,Amelie,5.5,3,30,7.015,Länggasse,521
+686,Emma,4.5,2,30,7.015,Länggasse,495
+687,Ajmane,4.75,3,30,7.015,Länggasse,553
+688,Phil,1.75,3,30,7.015,Länggasse,357
+689,Deana,3,2,30,7.015,Länggasse,494
+690,Lotta,3.5,3,30,7.015,Länggasse,466
+691,Marie,3.75,5,31,7.158,Hochfeld 1,850
+692,Theo,3.75,1,31,7.158,Hochfeld 1,496
+693,Berat,4.25,4,31,7.158,Hochfeld 1,845
+694,Leon,4.5,2,31,7.158,Hochfeld 1,659
+695,Niklas,5.5,3,31,7.158,Hochfeld 1,703
+696,Asia,4.75,4,31,7.158,Hochfeld 1,783
+697,Leyla,4.5,4,31,7.158,Hochfeld 1,769
+698,Laura,3.75,3,31,7.158,Hochfeld 1,738
+699,Kemal,5.75,5,31,7.158,Hochfeld 1,843
+700,Eliah,5,5,31,7.158,Hochfeld 1,1000
+701,Elie,1.75,5,31,7.158,Hochfeld 1,610
+702,Efe,3,4,31,7.158,Hochfeld 1,739
+703,Omeed,2.75,4,31,7.158,Hochfeld 1,723
+704,Fynn,3,5,31,7.158,Hochfeld 1,915
+705,Josefine,4.25,3,31,7.158,Hochfeld 1,758
+706,Lina,3.75,4,31,7.158,Hochfeld 1,709
+707,Borisovič,3.5,4,31,7.158,Hochfeld 1,760
+708,Paula,5.25,5,31,7.158,Hochfeld 1,819
+709,Justus,5.5,2,31,7.158,Hochfeld 1,683
+710,Nehir,5.5,3,31,7.158,Hochfeld 1,547
+711,Amy,3.75,4,31,7.158,Hochfeld 1,721
+712,Leonie,2,4,31,7.158,Hochfeld 1,749
+713,Raphaël,4.25,3,31,7.158,Hochfeld 1,732
+714,Tarik,4.5,5,32,5.793,Hochfeld 1,493
+715,Finja,5.5,3,32,5.793,Hochfeld 1,448
+716,Maria,3.25,3,32,5.793,Hochfeld 1,530
+717,Contantia,4.5,3,32,5.793,Hochfeld 1,500
+718,Ayla,4.25,5,32,5.793,Hochfeld 1,559
+719,Camille,5.5,1,32,5.793,Hochfeld 1,363
+720,Hebun,5.5,5,32,5.793,Hochfeld 1,472
+721,Luca,3.5,3,32,5.793,Hochfeld 1,391
+722,Thomas,5.25,4,32,5.793,Hochfeld 1,565
+723,Giada,5,5,32,5.793,Hochfeld 1,499
+724,Raphael,6,1,32,5.793,Hochfeld 1,552
+725,Jason,5,2,32,5.793,Hochfeld 1,531
+726,Aida,3.75,3,32,5.793,Hochfeld 1,489
+727,Luis,4.25,2,32,5.793,Hochfeld 1,279
+728,Carla,1.25,2,32,5.793,Hochfeld 1,352
+729,Marie,3.5,1,32,5.793,Hochfeld 1,479
+730,Viktoria,4.75,4,32,5.793,Hochfeld 1,488
+731,Alexander,5.5,5,32,5.793,Hochfeld 1,462
+732,Catarina,5.75,2,32,5.793,Hochfeld 1,637
+733,Ashley,4.5,4,32,5.793,Hochfeld 1,369
+734,Moritz,2.75,4,32,5.793,Hochfeld 1,444
+735,Lisa-Marie,5.25,4,32,5.793,Hochfeld 1,414
+736,Leni,5.75,5,32,5.793,Hochfeld 1,513
+737,Renuar,4.5,2,33,6.371,Hochfeld 1,238
+738,Luis,3.5,4,33,6.371,Hochfeld 1,551
+739,Zana,3,3,33,6.371,Hochfeld 1,533
+740,Tim,3.75,3,33,6.371,Hochfeld 1,262
+741,Hamza,3.75,1,33,6.371,Hochfeld 1,404
+742,Sylvester,4.5,4,33,6.371,Hochfeld 1,412
+743,Frida,5.5,2,33,6.371,Hochfeld 1,406
+744,Noah,4.25,3,33,6.371,Hochfeld 1,415
+745,Sereno,5.25,1,33,6.371,Hochfeld 1,216
+746,Andreyevna,4.5,2,33,6.371,Hochfeld 1,489
+747,Hannah,1,2,33,6.371,Hochfeld 1,400
+748,Timo,3.25,4,33,6.371,Hochfeld 1,547
+749,Florian,4.25,3,33,6.371,Hochfeld 1,479
+750,Esra,3.75,1,33,6.371,Hochfeld 1,373
+751,Katharina,4.25,5,33,6.371,Hochfeld 1,435
+752,Frieda,4.75,5,33,6.371,Hochfeld 1,439
+753,Erol,5.5,5,33,6.371,Hochfeld 1,560
+754,Alva,4,4,33,6.371,Hochfeld 1,455
+755,Leon,1.25,5,33,6.371,Hochfeld 1,614
+756,Josephine,4.75,2,33,6.371,Hochfeld 1,373
+757,James,5.5,4,33,6.371,Hochfeld 1,449
+758,Max,4.75,4,33,6.371,Hochfeld 1,344
+759,Nicklas,5.5,1,33,6.371,Hochfeld 1,358
+760,Wieland,6,1,34,5.623,Hochfeld 1,289
+761,Antonia,4.5,1,34,5.623,Hochfeld 1,354
+762,Kevin,5,5,34,5.623,Hochfeld 1,332
+763,Marie,4.75,4,34,5.623,Hochfeld 1,287
+764,Željan,6,5,34,5.623,Hochfeld 1,159
+765,Antonia,5,3,34,5.623,Hochfeld 1,375
+766,Tiberius,5.5,5,34,5.623,Hochfeld 1,218
+767,Vicco,3.75,1,34,5.623,Hochfeld 1,368
+768,Mina,5.25,2,34,5.623,Hochfeld 1,284
+769,Hamid,5.25,5,34,5.623,Hochfeld 1,346
+770,Noel,5,5,34,5.623,Hochfeld 1,517
+771,Max,4.25,4,34,5.623,Hochfeld 1,292
+772,Leonie,1.5,4,34,5.623,Hochfeld 1,425
+773,Aze,5.5,5,34,5.623,Hochfeld 1,327
+774,Kerim,6,1,34,5.623,Hochfeld 1,163
+775,Martha,5.25,1,34,5.623,Hochfeld 1,308
+776,Marie,4.5,2,34,5.623,Hochfeld 1,314
+777,Til,5.5,1,34,5.623,Hochfeld 1,331
+778,Nina,3.75,1,34,5.623,Hochfeld 1,401
+779,Nermin,4.75,2,34,5.623,Hochfeld 1,372
+780,Ikram,5,5,34,5.623,Hochfeld 1,288
+781,Elif,4.5,3,34,5.623,Hochfeld 1,425
+782,John,4.25,1,34,5.623,Hochfeld 1,374
+783,Donia,4.25,4,35,8.575,Hochfeld 1,645
+784,Isabel,3.75,5,35,8.575,Hochfeld 1,621
+785,Levinia,4,2,35,8.575,Hochfeld 1,439
+786,Amelia,6,2,35,8.575,Hochfeld 1,608
+787,Rudolf,1.75,4,35,8.575,Hochfeld 1,522
+788,Pia,3.75,1,35,8.575,Hochfeld 1,303
+789,Maja,5.5,5,35,8.575,Hochfeld 1,588
+790,Sophie,4,2,35,8.575,Hochfeld 1,600
+791,Miley,5,1,35,8.575,Hochfeld 1,474
+792,David,5,4,35,8.575,Hochfeld 1,490
+793,Maximilian,3.25,2,35,8.575,Hochfeld 1,389
+794,Nas,3.75,3,35,8.575,Hochfeld 1,517
+795,Florian,4,3,35,8.575,Hochfeld 1,429
+796,Alexa,4,4,35,8.575,Hochfeld 1,433
+797,Frederik,3.75,2,35,8.575,Hochfeld 1,570
+798,Nina,5,1,35,8.575,Hochfeld 1,509
+799,Sophie,3,3,35,8.575,Hochfeld 1,369
+800,Catarina,4.75,2,35,8.575,Hochfeld 1,538
+801,Johanna,5,2,35,8.575,Hochfeld 1,385
+802,Matilda,5.5,1,35,8.575,Hochfeld 1,401
+803,Yusuf,3.75,5,35,8.575,Hochfeld 1,534
+804,Alisha,3,2,35,8.575,Hochfeld 1,560
+805,Romana,4.5,1,35,8.575,Hochfeld 1,519
+806,Maja,5,2,36,7.069,Hochfeld 2,615
+807,Maximilian,1.25,2,36,7.069,Hochfeld 2,363
+808,Amelie,4.75,1,36,7.069,Hochfeld 2,588
+809,Bruno,5.5,1,36,7.069,Hochfeld 2,594
+810,Katharina,4.25,5,36,7.069,Hochfeld 2,544
+811,Peter,5,3,36,7.069,Hochfeld 2,533
+812,Rania,4,2,36,7.069,Hochfeld 2,691
+813,Sinan,3,2,36,7.069,Hochfeld 2,622
+814,Ismail,3.25,5,36,7.069,Hochfeld 2,623
+815,Karl,4.5,3,36,7.069,Hochfeld 2,416
+816,Mia,4.5,2,36,7.069,Hochfeld 2,566
+817,Anton,5.25,3,36,7.069,Hochfeld 2,625
+818,Azra,5.5,5,36,7.069,Hochfeld 2,658
+819,Leni,1.75,1,36,7.069,Hochfeld 2,559
+820,Marvin,5,4,36,7.069,Hochfeld 2,569
+821,Luise,5.75,1,36,7.069,Hochfeld 2,679
+822,Soumaya,6,3,36,7.069,Hochfeld 2,659
+823,Samuel,4,5,36,7.069,Hochfeld 2,460
+824,Constantin,4.25,3,36,7.069,Hochfeld 2,557
+825,Elias,5.25,2,36,7.069,Hochfeld 2,639
+826,Armin,5.25,4,36,7.069,Hochfeld 2,555
+827,Sophia,3,3,36,7.069,Hochfeld 2,570
+828,Michelle,5.25,5,36,7.069,Hochfeld 2,548
+829,Edward,5.25,1,37,5.824,Hochfeld 2,350
+830,Christian,4,1,37,5.824,Hochfeld 2,248
+831,Nikolas,4.5,4,37,5.824,Hochfeld 2,222
+832,Lorina,1.5,2,37,5.824,Hochfeld 2,366
+833,Mariella,5.5,5,37,5.824,Hochfeld 2,310
+834,Anel,5.75,5,37,5.824,Hochfeld 2,365
+835,Leland,5.75,3,37,5.824,Hochfeld 2,428
+836,Carlotta,3.5,4,37,5.824,Hochfeld 2,217
+837,Isabel,3.75,2,37,5.824,Hochfeld 2,176
+838,Benjamin,5,5,37,5.824,Hochfeld 2,293
+839,Riccardo,2.25,5,37,5.824,Hochfeld 2,372
+840,Frida,2.5,1,37,5.824,Hochfeld 2,313
+841,Sophie,5.5,3,37,5.824,Hochfeld 2,220
+842,Amoabeng,5,5,37,5.824,Hochfeld 2,324
+843,Connor,3.75,1,37,5.824,Hochfeld 2,278
+844,Filip,5,4,37,5.824,Hochfeld 2,336
+845,Bruno,5.5,2,37,5.824,Hochfeld 2,140
+846,Gertrud,6,5,37,5.824,Hochfeld 2,366
+847,Noa,4.25,2,37,5.824,Hochfeld 2,466
+848,Mia,5.5,2,37,5.824,Hochfeld 2,292
+849,Defne,5,5,37,5.824,Hochfeld 2,283
+850,Daniel,5.25,2,37,5.824,Hochfeld 2,183
+851,Elijah,5.5,2,37,5.824,Hochfeld 2,402
+852,Liam,4.5,1,38,7.336,Hochfeld 2,366
+853,Leonie,5.25,2,38,7.336,Hochfeld 2,636
+854,Mercan,4.5,4,38,7.336,Hochfeld 2,703
+855,Friedrich,3,5,38,7.336,Hochfeld 2,768
+856,Elisa,3.25,2,38,7.336,Hochfeld 2,504
+857,Tuğra,5,3,38,7.336,Hochfeld 2,823
+858,Maria,4.25,2,38,7.336,Hochfeld 2,685
+859,Antonietta,5.5,2,38,7.336,Hochfeld 2,640
+860,Benjamin,4.25,2,38,7.336,Hochfeld 2,645
+861,Samia,4.5,4,38,7.336,Hochfeld 2,740
+862,Navid,4.75,5,38,7.336,Hochfeld 2,735
+863,Marie-Claire,5.25,3,38,7.336,Hochfeld 2,692
+864,Moritz,5,5,38,7.336,Hochfeld 2,875
+865,Theodor,3.75,1,38,7.336,Hochfeld 2,497
+866,Sophia,3,1,38,7.336,Hochfeld 2,465
+867,Ilary,4.5,3,38,7.336,Hochfeld 2,545
+868,Lukas,2.5,2,38,7.336,Hochfeld 2,654
+869,Jonas,1.5,2,38,7.336,Hochfeld 2,444
+870,Matthieu,3.25,5,38,7.336,Hochfeld 2,616
+871,Talha,5.25,4,38,7.336,Hochfeld 2,612
+872,Robin,4.25,4,38,7.336,Hochfeld 2,697
+873,Lara,5,1,38,7.336,Hochfeld 2,729
+874,Christina,3,2,38,7.336,Hochfeld 2,480
+875,Duygu,5.5,2,39,7.549,Hochfeld 2,226
+876,Rudolf,5,2,39,7.549,Hochfeld 2,412
+877,Georg,5,1,39,7.549,Hochfeld 2,416
+878,Lasse,3.75,2,39,7.549,Hochfeld 2,229
+879,Ben,4.5,4,39,7.549,Hochfeld 2,304
+880,Taya,4,2,39,7.549,Hochfeld 2,313
+881,Igor,5,3,39,7.549,Hochfeld 2,201
+882,Ayda,4,2,39,7.549,Hochfeld 2,308
+883,Tia,3.5,3,39,7.549,Hochfeld 2,226
+884,Samuel,5,5,39,7.549,Hochfeld 2,233
+885,Valentina,4.25,3,39,7.549,Hochfeld 2,338
+886,Soraiya,3.75,5,39,7.549,Hochfeld 2,144
+887,Lena,1.75,3,39,7.549,Hochfeld 2,294
+888,Leon,5.25,4,39,7.549,Hochfeld 2,250
+889,Osman,5,3,39,7.549,Hochfeld 2,50
+890,Lissy,6,5,39,7.549,Hochfeld 2,273
+891,Frederik,4.75,1,39,7.549,Hochfeld 2,253
+892,Cornelia,4.5,3,39,7.549,Hochfeld 2,189
+893,Emma,4.25,2,39,7.549,Hochfeld 2,179
+894,Laura,4.25,4,39,7.549,Hochfeld 2,245
+895,Asim,5,2,39,7.549,Hochfeld 2,256
+896,Kalle,3.25,4,39,7.549,Hochfeld 2,275
+897,Sophie,4.75,3,39,7.549,Hochfeld 2,187
+898,Jona,3.75,4,40,6.054,Hochfeld 2,591
+899,Matti,5,3,40,6.054,Hochfeld 2,567
+900,Jan,5.5,5,40,6.054,Hochfeld 2,696
+901,Hazim,3.75,5,40,6.054,Hochfeld 2,425
+902,Kilian,5.75,5,40,6.054,Hochfeld 2,436
+903,Rabia,3.25,2,40,6.054,Hochfeld 2,481
+904,Leonie,3.75,5,40,6.054,Hochfeld 2,595
+905,David,5.5,5,40,6.054,Hochfeld 2,609
+906,Carlos,5.25,2,40,6.054,Hochfeld 2,414
+907,Linus,5,5,40,6.054,Hochfeld 2,502
+908,Maia,5,4,40,6.054,Hochfeld 2,518
+909,Azad,3.75,4,40,6.054,Hochfeld 2,528
+910,Matz,5.5,1,40,6.054,Hochfeld 2,537
+911,Stefan,5.75,5,40,6.054,Hochfeld 2,735
+912,Hudson,4.5,1,40,6.054,Hochfeld 2,501
+913,Grana,5.5,5,40,6.054,Hochfeld 2,641
+914,Mohamed,5,1,40,6.054,Hochfeld 2,574
+915,Leo,5.5,2,40,6.054,Hochfeld 2,506
+916,Leander,1.5,5,40,6.054,Hochfeld 2,417
+917,Dorothea,3.5,3,40,6.054,Hochfeld 2,424
+918,Marla,5.75,3,40,6.054,Hochfeld 2,475
+919,Fynn,3.75,4,40,6.054,Hochfeld 2,478
+920,Marlene,3.25,5,40,6.054,Hochfeld 2,517
+921,Jolie,4.75,5,41,7.144,Schwabgut,701
+922,Erina,1.25,4,41,7.144,Schwabgut,730
+923,Judith,4.25,4,41,7.144,Schwabgut,760
+924,Aurel,5.25,1,41,7.144,Schwabgut,630
+925,Lara,4.25,4,41,7.144,Schwabgut,753
+926,Ben,5,1,41,7.144,Schwabgut,529
+927,Martha,4,1,41,7.144,Schwabgut,496
+928,Lukas,5.5,3,41,7.144,Schwabgut,517
+929,Pietro,3,4,41,7.144,Schwabgut,682
+930,Lena,3.75,1,41,7.144,Schwabgut,471
+931,Pauline,4.5,1,41,7.144,Schwabgut,612
+932,Eymen,4.75,1,41,7.144,Schwabgut,563
+933,Loucas,4.5,2,41,7.144,Schwabgut,648
+934,Roland,5.5,3,41,7.144,Schwabgut,670
+935,Chanel,1.5,3,41,7.144,Schwabgut,515
+936,Egemen,5.25,1,41,7.144,Schwabgut,536
+937,Fiona,6,4,41,7.144,Schwabgut,792
+938,Ervanur,5.25,4,41,7.144,Schwabgut,852
+939,Sophia,4.75,1,41,7.144,Schwabgut,531
+940,Sebastian,5,3,41,7.144,Schwabgut,565
+941,Mia,4.75,3,41,7.144,Schwabgut,813
+942,Salima,3.75,4,41,7.144,Schwabgut,644
+943,Preston,3.5,3,41,7.144,Schwabgut,536
+944,Marie,5.25,4,42,5.479,Schwabgut,518
+945,Leni,6,5,42,5.479,Schwabgut,468
+946,Mara,5.5,4,42,5.479,Schwabgut,566
+947,Leon,5.25,3,42,5.479,Schwabgut,373
+948,Lewis,4,5,42,5.479,Schwabgut,467
+949,Nico,5.5,1,42,5.479,Schwabgut,402
+950,Letizia,5,3,42,5.479,Schwabgut,428
+951,Esma,4.25,5,42,5.479,Schwabgut,605
+952,Leander,5.25,2,42,5.479,Schwabgut,608
+953,Christoph,5,5,42,5.479,Schwabgut,538
+954,Josefine,5.5,3,42,5.479,Schwabgut,500
+955,Julius,4.75,2,42,5.479,Schwabgut,557
+956,Aramis,5,3,42,5.479,Schwabgut,548
+957,Lionel,4.25,3,42,5.479,Schwabgut,332
+958,Ali,5.25,3,42,5.479,Schwabgut,293
+959,Jonas,5,1,42,5.479,Schwabgut,632
+960,Amin,3.75,1,42,5.479,Schwabgut,443
+961,Emma,3.75,1,42,5.479,Schwabgut,433
+962,Efe,4.75,2,42,5.479,Schwabgut,496
+963,Amir,5.5,3,42,5.479,Schwabgut,530
+964,Nuno,5,2,42,5.479,Schwabgut,394
+965,Daniele,3.75,4,42,5.479,Schwabgut,453
+966,Julia,3.75,4,42,5.479,Schwabgut,418
+967,Mathilda,5.5,5,43,7.83,Schwabgut,374
+968,Heidi,1.5,3,43,7.83,Schwabgut,427
+969,Emilia,5.25,5,43,7.83,Schwabgut,501
+970,Beren,5.25,1,43,7.83,Schwabgut,380
+971,Angie,4.5,2,43,7.83,Schwabgut,423
+972,Oscar,4.75,1,43,7.83,Schwabgut,463
+973,Dario,3.25,5,43,7.83,Schwabgut,476
+974,Liandra,5,4,43,7.83,Schwabgut,404
+975,Lenny,5.5,3,43,7.83,Schwabgut,551
+976,Gaja,5,4,43,7.83,Schwabgut,374
+977,Verona,1.5,3,43,7.83,Schwabgut,515
+978,Alina,5.5,2,43,7.83,Schwabgut,233
+979,Gereon,5,3,43,7.83,Schwabgut,518
+980,Fabienne,5,5,43,7.83,Schwabgut,457
+981,Leander,4.5,2,43,7.83,Schwabgut,550
+982,Maria,4.25,3,43,7.83,Schwabgut,496
+983,Javier,4.5,1,43,7.83,Schwabgut,445
+984,Martin,6,4,43,7.83,Schwabgut,511
+985,Samia,4.25,2,43,7.83,Schwabgut,357
+986,Ray,5.5,5,43,7.83,Schwabgut,483
+987,Fine,6,5,43,7.83,Schwabgut,333
+988,Alessandro,3.5,4,43,7.83,Schwabgut,441
+989,Ulrike,5,1,43,7.83,Schwabgut,530
+990,Maria,3.5,5,44,6.601,Schwabgut,609
+991,Jack,2.5,3,44,6.601,Schwabgut,619
+992,Donia,4.5,2,44,6.601,Schwabgut,554
+993,Lisa,5,3,44,6.601,Schwabgut,608
+994,Erwin,3.75,1,44,6.601,Schwabgut,484
+995,Hamza,4.75,5,44,6.601,Schwabgut,449
+996,Milan,5.25,4,44,6.601,Schwabgut,633
+997,Katharina,3.75,4,44,6.601,Schwabgut,638
+998,Stephan,5.75,3,44,6.601,Schwabgut,475
+999,Romina,5.5,4,44,6.601,Schwabgut,532
+1000,Elif,3.75,3,44,6.601,Schwabgut,727
+1001,David,3.75,3,44,6.601,Schwabgut,594
+1002,Hubertus,4.5,4,44,6.601,Schwabgut,614
+1003,Kristian,5.5,2,44,6.601,Schwabgut,458
+1004,Susanna,3.75,2,44,6.601,Schwabgut,545
+1005,Henry,3,5,44,6.601,Schwabgut,645
+1006,Enea,5.75,1,44,6.601,Schwabgut,546
+1007,Miley,4.25,1,44,6.601,Schwabgut,570
+1008,Peter,5.5,2,44,6.601,Schwabgut,413
+1009,Rosa,6,5,44,6.601,Schwabgut,667
+1010,Frida,5.5,2,44,6.601,Schwabgut,557
+1011,Belya,5,3,44,6.601,Schwabgut,526
+1012,Theresa,3.25,5,44,6.601,Schwabgut,515
+1013,Medina,5.25,2,45,6.23,Schwabgut,306
+1014,Dario,5,2,45,6.23,Schwabgut,331
+1015,Maribel,5.5,4,45,6.23,Schwabgut,359
+1016,Can,2,1,45,6.23,Schwabgut,329
+1017,Elisa,1,2,45,6.23,Schwabgut,495
+1018,Marie,5,3,45,6.23,Schwabgut,367
+1019,Liya,5.5,5,45,6.23,Schwabgut,523
+1020,Jasko,4.75,3,45,6.23,Schwabgut,340
+1021,Alea,4.75,4,45,6.23,Schwabgut,456
+1022,Miley,4,5,45,6.23,Schwabgut,366
+1023,Gabriel,5.5,4,45,6.23,Schwabgut,417
+1024,Nora,4.25,1,45,6.23,Schwabgut,440
+1025,Emir,3.75,4,45,6.23,Schwabgut,512
+1026,Yiran,5.75,2,45,6.23,Schwabgut,467
+1027,Arne-Michael,5.5,1,45,6.23,Schwabgut,304
+1028,Julian,5.75,2,45,6.23,Schwabgut,262
+1029,Sefkan,5,2,45,6.23,Schwabgut,447
+1030,Azad,3.75,4,45,6.23,Schwabgut,422
+1031,Anna,3.75,5,45,6.23,Schwabgut,311
+1032,Emma,3.25,1,45,6.23,Schwabgut,397
+1033,Chukwu,1.5,3,45,6.23,Schwabgut,452
+1034,Jonas,5.25,5,45,6.23,Schwabgut,447
+1035,Rümeysa,5,4,45,6.23,Schwabgut,422
+1036,Elizabeth,5.25,5,46,8.419,Tscharnergut,333
+1037,Daria,4.25,2,46,8.419,Tscharnergut,350
+1038,Trinh,3.75,1,46,8.419,Tscharnergut,385
+1039,Lukas,3.5,3,46,8.419,Tscharnergut,379
+1040,Stefan,3.75,5,46,8.419,Tscharnergut,220
+1041,Sümeyye,4.75,5,46,8.419,Tscharnergut,546
+1042,Alma,5.5,4,46,8.419,Tscharnergut,432
+1043,Muriel,4.5,5,46,8.419,Tscharnergut,442
+1044,Nica,5.75,2,46,8.419,Tscharnergut,409
+1045,Marlene,3.75,5,46,8.419,Tscharnergut,294
+1046,Yadigar,5.25,3,46,8.419,Tscharnergut,531
+1047,Marlene,3.25,3,46,8.419,Tscharnergut,370
+1048,Thushe,5.25,5,46,8.419,Tscharnergut,272
+1049,Paul,3.75,4,46,8.419,Tscharnergut,458
+1050,Andriyivna,4.75,2,46,8.419,Tscharnergut,409
+1051,Erna,5.25,1,46,8.419,Tscharnergut,379
+1052,Nina,5.75,4,46,8.419,Tscharnergut,459
+1053,Abdeljalil,4,2,46,8.419,Tscharnergut,274
+1054,Maxi,4.75,2,46,8.419,Tscharnergut,457
+1055,Josephine,3.25,2,46,8.419,Tscharnergut,227
+1056,Charlotte,3,1,46,8.419,Tscharnergut,337
+1057,Jonathan,4.25,3,46,8.419,Tscharnergut,421
+1058,Anas,4.25,4,46,8.419,Tscharnergut,337
+1059,Leon,5.75,5,47,5.755,Tscharnergut,584
+1060,Ferris,5.25,3,47,5.755,Tscharnergut,653
+1061,Cybelle,5.5,4,47,5.755,Tscharnergut,484
+1062,Salma,5,4,47,5.755,Tscharnergut,767
+1063,Neo,5,2,47,5.755,Tscharnergut,642
+1064,Floria,4.25,5,47,5.755,Tscharnergut,594
+1065,Keoni,5.5,5,47,5.755,Tscharnergut,706
+1066,Alesio,4.5,3,47,5.755,Tscharnergut,625
+1067,Luana,5.5,1,47,5.755,Tscharnergut,445
+1068,Liya,5.5,1,47,5.755,Tscharnergut,484
+1069,Zoe,4.25,4,47,5.755,Tscharnergut,506
+1070,Lea,5,1,47,5.755,Tscharnergut,434
+1071,Jasper,5.5,2,47,5.755,Tscharnergut,503
+1072,Mayira,5.25,2,47,5.755,Tscharnergut,469
+1073,Rasmus,5.25,1,47,5.755,Tscharnergut,476
+1074,Emily,5.25,1,47,5.755,Tscharnergut,473
+1075,Henri,3.75,2,47,5.755,Tscharnergut,555
+1076,Juliano,4.75,3,47,5.755,Tscharnergut,635
+1077,Jasko,5.5,1,47,5.755,Tscharnergut,306
+1078,Alexandra,4.25,5,47,5.755,Tscharnergut,521
+1079,Antonius,5.25,5,47,5.755,Tscharnergut,490
+1080,Béla,5.25,5,47,5.755,Tscharnergut,576
+1081,Diya,4,3,47,5.755,Tscharnergut,498
+1082,Constantin,4,2,48,8.102,Tscharnergut,406
+1083,Gregorius,2.25,5,48,8.102,Tscharnergut,391
+1084,Matylda,5.5,5,48,8.102,Tscharnergut,484
+1085,Maleen,2.75,2,48,8.102,Tscharnergut,468
+1086,Julian,4,4,48,8.102,Tscharnergut,650
+1087,Lynnsha,4.75,5,48,8.102,Tscharnergut,558
+1088,Ella,5,2,48,8.102,Tscharnergut,439
+1089,Vincent,5.5,2,48,8.102,Tscharnergut,477
+1090,Deyyan,4.25,3,48,8.102,Tscharnergut,533
+1091,Mouhamed,2.25,1,48,8.102,Tscharnergut,431
+1092,Cemile,4.5,1,48,8.102,Tscharnergut,478
+1093,Samuel,5.5,1,48,8.102,Tscharnergut,469
+1094,Elif,5,2,48,8.102,Tscharnergut,512
+1095,Nasim,4,5,48,8.102,Tscharnergut,573
+1096,Theodor,4.5,4,48,8.102,Tscharnergut,619
+1097,Lani,5.25,5,48,8.102,Tscharnergut,611
+1098,Devine,3.75,2,48,8.102,Tscharnergut,544
+1099,Lea,4.5,4,48,8.102,Tscharnergut,508
+1100,Karl,4.5,5,48,8.102,Tscharnergut,495
+1101,Laura,5.5,1,48,8.102,Tscharnergut,461
+1102,Rosa,4.75,4,48,8.102,Tscharnergut,573
+1103,Darrell,5,4,48,8.102,Tscharnergut,573
+1104,Miriam,4,3,48,8.102,Tscharnergut,629
+1105,Jonah,2,5,49,5.091,Tscharnergut,535
+1106,Konrad,5.25,5,49,5.091,Tscharnergut,360
+1107,Pelin,5.25,4,49,5.091,Tscharnergut,522
+1108,Melitta,3.75,5,49,5.091,Tscharnergut,681
+1109,Noah,3.5,4,49,5.091,Tscharnergut,593
+1110,Julia,5.75,1,49,5.091,Tscharnergut,602
+1111,Julián,5.25,5,49,5.091,Tscharnergut,558
+1112,Lia,4.75,1,49,5.091,Tscharnergut,361
+1113,Kazim,5,4,49,5.091,Tscharnergut,512
+1114,Lilith,4.5,4,49,5.091,Tscharnergut,380
+1115,Michal,2.75,3,49,5.091,Tscharnergut,539
+1116,Sara,5.25,2,49,5.091,Tscharnergut,391
+1117,Jasmina,1.5,3,49,5.091,Tscharnergut,549
+1118,Jan,3.75,5,49,5.091,Tscharnergut,581
+1119,Elina,1,1,49,5.091,Tscharnergut,437
+1120,Philipp,4.75,3,49,5.091,Tscharnergut,634
+1121,Elisabeth,1,3,49,5.091,Tscharnergut,499
+1122,Deniz,5,2,49,5.091,Tscharnergut,532
+1123,Marlie,5.5,3,49,5.091,Tscharnergut,458
+1124,Matay,5.5,3,49,5.091,Tscharnergut,540
+1125,Brianne,5.5,3,49,5.091,Tscharnergut,357
+1126,Joleen,3.75,3,49,5.091,Tscharnergut,380
+1127,Mika,3.75,3,49,5.091,Tscharnergut,477
+1128,Mareike,4.25,3,50,6.27,Tscharnergut,375
+1129,Evgenija,4,4,50,6.27,Tscharnergut,497
+1130,Shania,3.75,2,50,6.27,Tscharnergut,531
+1131,Marie,3.75,4,50,6.27,Tscharnergut,504
+1132,Alina,5.5,1,50,6.27,Tscharnergut,444
+1133,Emirhan,5.5,2,50,6.27,Tscharnergut,541
+1134,Sienna,5.5,3,50,6.27,Tscharnergut,599
+1135,Christian,5.5,1,50,6.27,Tscharnergut,475
+1136,Frida,5.25,2,50,6.27,Tscharnergut,489
+1137,Ron,3,1,50,6.27,Tscharnergut,505
+1138,James,4.75,5,50,6.27,Tscharnergut,481
+1139,Delaine,5.25,3,50,6.27,Tscharnergut,629
+1140,Leon,3.25,3,50,6.27,Tscharnergut,519
+1141,Safia,5.5,4,50,6.27,Tscharnergut,511
+1142,Erdem,4,2,50,6.27,Tscharnergut,546
+1143,Robert,5.5,3,50,6.27,Tscharnergut,435
+1144,Luca,3,2,50,6.27,Tscharnergut,504
+1145,Annika,2,3,50,6.27,Tscharnergut,409
+1146,Mae,4.75,4,50,6.27,Tscharnergut,483
+1147,Sura,5,3,50,6.27,Tscharnergut,517
+1148,Valeriy,4,4,50,6.27,Tscharnergut,352
+1149,Niklas,4,5,50,6.27,Tscharnergut,477
+1150,Joel,4.25,2,50,6.27,Tscharnergut,473
